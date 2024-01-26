@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=100&color=F7D610&center=true&vCenter=true&random=false&width=435&lines=Hello+there+!+%F0%9F%98%8A;This+is+Supra...;Nice+to+meet+you+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Suprabhat</h1>
 <h3 align="center">An aspiring Software Engineer...</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
