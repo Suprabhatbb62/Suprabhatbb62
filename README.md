@@ -3,15 +3,14 @@
 <h3 align="center">An aspiring Software Engineer...</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 👨‍💻 All of my projects are available at [https://github.com/Suprabhatbb62/](https://github.com/Suprabhatbb62/)
+- 💬 Ask me about Core Java, OOPs, Data Structures & Algorithms, and MySql.
+- 📫 Contact me **suprabhatbb62@gmail.com**
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1rqPgYCP7SXKaztGfq70f3y0N5QNPRJMa/view?usp=sharing" target="_blank"> Resume </a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Suprabhatbb62/" target="_blank"> Click Here </a>
+- 📝 Checkout my Cryptocurrency blog <a href="https://finance-123com.blogspot.com/" target="_blank"> Click Here </a>
+- 📝 Checkout my Educational blog <a href="https://mcasnu.blogspot.com/" target="_blank"> Click Here </a>
 
-- 📝 Checkout my Cryptocurrency blog [https://finance-123com.blogspot.com/](https://finance-123com.blogspot.com/)
 
-- 📫 How to reach me **suprabhatbb62@gmail.com**
-
-- 📝 Checkout my Educational blog [https://mcasnu.blogspot.com/](https://mcasnu.blogspot.com/)
-
-- 📄 Know about my experiences **https://drive.google.com/file/d/1rqPgYCP7SXKaztGfq70f3y0N5QNPRJMa/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
